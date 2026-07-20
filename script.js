@@ -473,7 +473,7 @@ init();
    ------------------------------------------------------------------------- */
 
 // TODO: replace with your real Google Form URL
-const GOOGLE_FORM_URL = 'https://forms.gle/YOUR_GOOGLE_FORM_ID';
+const GOOGLE_FORM_URL = 'https://docs.google.com/forms/d/e/1FAIpQLSdhZqHQnwJ_VTmfngSdNurf_MrFFtjjBOGGgv1d6SAezps2fw/viewform?usp=publish-editor';
 
 // Reports submitted by the visitor during this browser session (not saved
 // anywhere — resets on page reload).
